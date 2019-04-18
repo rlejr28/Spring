@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: qna-board
+Implementation-Version: 1.0
+Built-By: user
+Implementation-Vendor-Id: iducs.spring.boot
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/qna-board
+Created-By: Maven Integration for Eclipse
+

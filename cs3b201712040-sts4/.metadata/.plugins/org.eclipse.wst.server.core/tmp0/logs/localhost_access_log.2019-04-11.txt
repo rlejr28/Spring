@@ -1,0 +1,17 @@
+127.0.0.1 - - [11/Apr/2019:16:00:48 +0900] "GET / HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:00:49 +0900] "GET /qna-board/welcome.html HTTP/1.1" 200 169
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:00:49 +0900] "GET /favicon.ico HTTP/1.1" 404 1126
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:01:13 +0900] "GET /qna-board/welcome.html HTTP/1.1" 200 201
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:02:06 +0900] "GET /qna-board/welcome.html HTTP/1.1" 200 246
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:28:07 +0900] "GET /qna-board/welcome.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:28:18 +0900] "GET /qna-board/create.html HTTP/1.1" 200 126
+127.0.0.1 - - [11/Apr/2019:16:29:23 +0900] "GET / HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:29:23 +0900] "GET /qna-board/create.html HTTP/1.1" 200 141
+127.0.0.1 - - [11/Apr/2019:16:30:53 +0900] "GET / HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:30:53 +0900] "GET /qna-board/WEB-INF/classes/iducs/spring/boot/controller/QnaBoardController.java HTTP/1.1" 404 1086
+127.0.0.1 - - [11/Apr/2019:16:42:18 +0900] "GET / HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:42:19 +0900] "GET /qna-board/create.html HTTP/1.1" 200 148
+127.0.0.1 - - [11/Apr/2019:16:49:13 +0900] "GET / HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:49:13 +0900] "GET /qna-board/WEB-INF/classes/templates/create.html HTTP/1.1" 404 1086
+127.0.0.1 - - [11/Apr/2019:16:57:54 +0900] "GET / HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [11/Apr/2019:16:57:54 +0900] "GET /qna-board/WEB-INF/classes/templates/create.html HTTP/1.1" 404 1086
